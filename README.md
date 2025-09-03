@@ -1,2 +1,2 @@
 # AI-langchain-base
-Docker base image for lanchain
+Docker base image for langchain
